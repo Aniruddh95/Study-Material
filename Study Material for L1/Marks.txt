@@ -1,0 +1,6 @@
+m1 : web basics (xml,hrml,javascript,oracle,programming foundation) : 13
+m2 : 20
+m3 : 18-20
+m4 : 20 : angular2 and object oriented (15), devops (1),clound fundamental? (4) 
+m5 : 3-5 software eng, quelity process, 
+
