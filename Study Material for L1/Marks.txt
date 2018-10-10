@@ -1,6 +1,15 @@
 m1 : web basics (xml,hrml,javascript,oracle,programming foundation) : 13
-m2 : 20
-m3 : 18-20
-m4 : 20 : angular2 and object oriented (15), devops (1),clound fundamental? (4) 
+    programming foundation(good pro standarc, softwarevtesting) 3,
+    html 1,css 1, javascripy 2, xml 2
+    oops 1 , uml 1
+     oracle (join 1, dml 2, single row function 2)
+
+m2 : 20 core 2, excetion 2 , io lamda 1, string 1, multi 1, threading 1
+
+m3 : 18-20 servlet  1, jsp 2, devloper workplace 3, jpahybirnet 3, spring 6(mvc 3, spring jpa 1, ioc and
+       intro to spring 2), web service 1
+
+m4 : 20 : angular2 and object oriented (15) tyopescript 2, a componen 2 data binding 1 directive 2, element 2, 
+      service dependenct 2 pipe 2 rountin 2, devops (1),clound fundamental? (4) 
 m5 : 3-5 software eng, quelity process, 
 
